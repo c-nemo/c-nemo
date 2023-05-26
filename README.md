@@ -6,6 +6,12 @@
 <h3 align="center">Информация обо мне</h3>
 -->
 
+### Junior ML-engineer
+Имею опыт в:
+1. CV
+2. Classical ML
+3. NLP
+
 ### Стек
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -20,7 +26,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=white&color=black)
 
-#### Доп стек
+### Доп стек
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
